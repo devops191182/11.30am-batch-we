@@ -1,0 +1,5 @@
+---
+name: rds server
+hosts: localhost
+task: new
+service: nginx
